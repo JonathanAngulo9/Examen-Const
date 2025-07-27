@@ -1,0 +1,11 @@
+{
+  "name": "2025a-swgr2-dcsm-suma",
+  "version": "1.0.0",
+  "description": "Examen de construccion - operacion suma",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Domenica Camila Sanchez Mier",
+  "license": "ISC"
+}

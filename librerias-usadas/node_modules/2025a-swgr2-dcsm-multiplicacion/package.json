@@ -1,0 +1,11 @@
+{
+  "name": "2025a-swgr2-dcsm-multiplicacion",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Domenica Camila Sanchez Mier",
+  "license": "ISC"
+}

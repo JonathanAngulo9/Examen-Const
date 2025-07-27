@@ -1,0 +1,11 @@
+{
+  "name": "2025a-swgr2-jsaq-divicion",
+  "version": "1.0.0",
+  "description": "Examen de contruccion - operacion divicion",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jonathan Steveen Angulo Quishpi",
+  "license": "ISC"
+}
